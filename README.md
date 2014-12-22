@@ -13,3 +13,7 @@ to start run this command
 
     $ node_modules/.bin/gulp build
     $ node_modules/.bin/gulp server
+
+or `build` and `server` at once
+
+    $ node_modules/.bin/gulp start
