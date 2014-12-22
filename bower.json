@@ -1,0 +1,30 @@
+{
+  "name": "Name of apps",
+  "version": "0.0.0",
+  "description": "Description of apps",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "client",
+    "side"
+  ],
+  "authors": [
+    "Bayu Aldi Yansyah"
+  ],
+  "license": "MIT",
+  "homepage": "sundaycode.co",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/libs",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}

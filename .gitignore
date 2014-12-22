@@ -1,0 +1,4 @@
+src/libs/
+node_modules/
+build/
+npm-debug.log
